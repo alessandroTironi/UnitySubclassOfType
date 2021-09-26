@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"description": "A class that allows the user to select any Type which is sublcass of a declared type from a friendly drop-down menu.",
 	"displayName": "SubclassOf Type",
-	"unity": "2021.1",
+	"unity": "2020.2",
 	"author": {
 		"name": "Alessandro Tironi",
 		"email": "alessandro.tironi7@gmail.com",
