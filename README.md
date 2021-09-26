@@ -26,3 +26,6 @@ public class SubclassSelectorComponent : MonoBehaviour
 ## Known issues 
 * At the moment, the initialization with the default constructor (e.g. ```public SubclassOf<AComponent> subclass = new SubclassOf<AComponent>();```) is mandatory. I am currently looking for a way to make it automatic.
 * The dropdown list gets rebuilded multiple times per frame. It is not game time code, but it would be nice to optimize that work anyway.
+
+## Install as package
+Open the Package manager and click on the "+" symbol on the top-left corner. Select "Add from git URL" and paste ```https://github.com/alessandroTironi/UnitySubclassOfType.git``` into the form. Unity should now install the package. After that, just add a dependency to "TigerDev.SubclassOfType" to your assembly definition file to be able to use the class in your project.
