@@ -1,0 +1,16 @@
+{
+    "name": "UnityUtilsDemo",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2c651a222fabeca48a971cf08f455281"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

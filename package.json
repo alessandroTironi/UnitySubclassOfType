@@ -1,0 +1,21 @@
+{
+	"name": "com.tigerdev.subclassoftype",
+	"version": "1.0.0",
+	"description": "A class that allows the user to select any Type which is sublcass of a declared type from a friendly drop-down menu.",
+	"displayName": "SubclassOf Type",
+	"unity": "2021.1",
+	"author": {
+		"name": "Alessandro Tironi",
+		"email": "alessandro.tironi7@gmail.com",
+		"url": "https://alessandrotironigamedev.com"
+	},
+	"documentationUrl": "https://github.com/alessandroTironi/Unity-SubclassOfType",
+	"keywords": [ "subclass", "subclassof", "subclass of", "type", "subtype"],
+	"samples": [
+		{
+			"displayName": "Basic Usage",
+			"description": "How to declare a SubclassOf type and how to retrieve the selected Type",
+			"path": "Samples/BasicUsage"
+		}
+	]
+}
